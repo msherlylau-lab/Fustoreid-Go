@@ -1,0 +1,44 @@
+body {
+  font-family: 'cambria';
+  text-align: center;
+  background: #fff5f8;
+  padding: 20px;
+}
+h1 {
+  color: #cf1a14;
+}
+.judul{
+  font-weight: bolder;
+  color: darkblue;
+}
+h4{
+  font-size: medium;
+  color: black;
+  font-size: large;
+}
+.card {
+  background: rgb(176, 223, 241);
+  max-width: 260px;
+  margin: 20px auto;
+  padding: 16px;
+  border-radius: 16px;
+}
+.foto {
+  background: #fffcd6;
+  height: 160px;
+  border-radius: 12px;
+  line-height: 160px;
+}
+.harga {
+  font-weight: bold;
+  color: #d34d2c;
+}
+button,.tombol {
+  text-decoration:none;
+  display: inline-block;
+  background: #c24a13;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+}
